@@ -27,7 +27,7 @@ SECRET_KEY = os.getenv('SECRET_KEY', 'django-insecure-p+38e0u89@oyz^4x)7m!3vr3ea
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['ezgii.pythonanywhere.com', 'www.ezgii.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', '.localhost', 'ezgii.pythonanywhere.com']
 
 # Application definition
 
